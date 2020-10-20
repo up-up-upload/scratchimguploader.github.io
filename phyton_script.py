@@ -1,3 +1,5 @@
+import os
+
 # check if the file has been uploaded 
 if fileitem.filename: 
     # strip the leading path from the file name 
